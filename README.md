@@ -1,4 +1,4 @@
-# patient_visits_pred
+# clustering analysis of patients
 🧠 Patient Clustering Report (Age ≤ 50)
 
 This project performs clustering analysis on patient records using KMeans and generates a visual PDF report for patients aged 50 years and below.
